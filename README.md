@@ -4,7 +4,7 @@
 * [geekgeekrun / geekgeekrun](https://github.com/geekgeekrun/geekgeekrun) 一款可以帮助你在Boss直聘上自动批量开聊Boss的脚本，基于Puppeteer。
 * [xpzouying / xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) 小红书 MCP。（可以自动下载/发布小红书帖子。有个问题是下载帖子，无法下载到完整的笔记。）
 * [xpzouying / x-mcp](https://github.com/xpzouying/x-mcp) 浏览器插件版本的 小红书MCP
-* [cv-cat / Spider_XHS](https://github.com/cv-cat/Spider_XHS) 下载小红书帖子利器，体验效果很好
+* [cv-cat / Spider_XHS](https://github.com/cv-cat/Spider_XHS) 下载小红书帖子利器(体验效果很好)
 * [cv-cat / DouYin_Spider](https://github.com/cv-cat/DouYin_Spider) 抖音逆向，抖音爬虫，抖音全部api、直播间监听。
 * [cv-cat / LarkAgentX](https://github.com/cv-cat/LarkAgentX) 飞书AI Agent
 * [cxyfreedom / website-hot-hub](https://github.com/cxyfreedom/website-hot-hub)  记录 36Kr、bilibili、GitHub、抖音、掘金、微信读书平台从 2023-10-25 日至今的热点榜。每小时抓取一次数据，按天归档。非当年数据归档到 Releases 中 （扫了一眼爬取的数据很全）
