@@ -13,7 +13,10 @@
 * [putyy/res-downloader](https://github.com/putyy/res-downloader)视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!  （体验了下，需要手动打开目标网页，比如小红书，后台会自动探测可下载的音视频文本资源，不过在我的ubuntu24.04上没跑成功，提示证书没有下载好，后面有空继续研究下。）
 * [sansan0 / TrendRadar](https://github.com/sansan0/TrendRadar) 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！
 * [666ghj / BettaFish](https://github.com/666ghj/BettaFish) 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
-* [ValueCell-ai /
-valuecell](https://github.com/ValueCell-ai/valuecell) ValueCell is a community-driven, multi-agent platform for financial applications.
-* [hsliuping
-TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版。（体验下来感觉偏短线分析多一些，作为交易辅助也是不错的）
+* [ValueCell-ai / valuecell](https://github.com/ValueCell-ai/valuecell) ValueCell is a community-driven, multi-agent platform for financial applications.
+* [hsliuping / TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版。（体验下来感觉偏短线分析多一些，作为交易辅助也是不错的）
+* [MStarlogo/awesome-spider](https://github.com/MStarlogo/awesome-spider) 网友收集的爬虫列表
+* [facert / github_search](https://github.com/facert/github_search) 根据 keywords 搜索 github 上面的 repos, 并通过 web 展示
+* [NanmiCoder / MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+* [NanmiCoder/CrawlerTutorial](https://github.com/NanmiCoder/CrawlerTutorial) 爬虫入门、爬虫进阶、高级爬虫
+* [kgspider / crawler](https://github.com/kgspider/crawler) K 哥爬虫代码分享，JS 逆向，爬虫进阶。关注公众号：K哥爬虫
