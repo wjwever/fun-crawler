@@ -15,7 +15,8 @@
 | [xpzouying / xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | 小红书 MCP，可以自动下载/发布小红书帖子。 | 无法下载小红书帖正文子内容，有点难受                         |
 | [xpzouying / x-mcp](https://github.com/xpzouying/x-mcp)      | 浏览器插件版本的 小红书MCP                |                                                              |
 | [cv-cat / Spider_XHS](https://github.com/cv-cat/Spider_XHS)  | 可下载小红书帖子                          | 基于小红书后端接口做的，试了几次就被封禁了，有点难受。[issue](https://github.com/cv-cat/Spider_XHS/issues/116) |
-| [iFurySt / RedNote-MCP](https://github.com/iFurySt/RedNote-MCP) 小红书MCP， | 基于playwright实现                        |                                                              |
+| [iFurySt / RedNote-MCP](https://github.com/iFurySt/RedNote-MCP) | 小红书MCP，基于playwright实现             |                                                              |
+| [ReaJason/xhs](https://github.com/ReaJason)                  | 基于小红书 Web 端进行的请求封装。         |                                                              |
 
 ## 抖音
 
